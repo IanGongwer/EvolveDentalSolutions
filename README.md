@@ -1,3 +1,5 @@
 # Evolve Dental Solutions
 
-This project was created to help an acquaintance of mine build her website from scratch.
+Created a website for a colleague of mine and her dental paperless consulting business.
+
+Live Site Link: https://iangongwer.github.io/EvolveDentalSolutions/
