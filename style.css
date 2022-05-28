@@ -42,7 +42,7 @@ a:hover {
 
 .photo-gallery img {
     display: block;
-    max-width: 40%;
+    max-width: 30%;
     margin: auto;
 }
 
@@ -90,7 +90,7 @@ a:hover {
 }
 
 .about-image {
-    max-width: 50%;
+    max-width: 40%;
 }
 
 .btn-primary {
@@ -108,7 +108,7 @@ a:hover {
 }
 
 .contact-image {
-    max-width: 50%;
+    max-width: 20%;
 }
 
 /* Footer */
