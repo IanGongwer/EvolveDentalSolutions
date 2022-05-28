@@ -89,10 +89,6 @@ a:hover {
     text-align: center;
 }
 
-.about-image {
-    max-width: 40%;
-}
-
 .btn-primary {
     margin: 10px;
 }
@@ -105,10 +101,6 @@ a:hover {
     align-items: center;
     margin: 50px auto;
     text-align: center;
-}
-
-.contact-image {
-    max-width: 20%;
 }
 
 /* Footer */
