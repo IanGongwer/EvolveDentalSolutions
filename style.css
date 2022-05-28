@@ -27,6 +27,12 @@ a:hover {
     margin: 30px auto;
 }
 
+.logo-img {
+    display: block;
+    margin: -30px auto;
+    padding: 0;
+}
+
 /* Photo Gallery */
 
 .photo-gallery {
@@ -114,6 +120,10 @@ a:hover {
         width: 15%;
     }
 
+    .logo-img {
+        width: 75%;
+    }
+
     .photo-gallery {
         margin-left: 50px;
     }
@@ -130,6 +140,10 @@ a:hover {
 @media (max-width: 350px) {
     .navbar img {
         width: 20%;
+    }
+
+    .logo-img {
+        width: 60%;
     }
 
     .photo-gallery {
