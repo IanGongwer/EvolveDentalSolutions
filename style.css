@@ -36,12 +36,14 @@ a:hover {
 /* Photo Gallery */
 
 .photo-gallery {
-    margin: 100px auto;
-    align-items: center;
+    max-width: 1400px;
+    margin: 30px auto;
 }
 
 .photo-gallery img {
-    max-width: 90%;
+    display: block;
+    max-width: 40%;
+    margin: auto;
 }
 
 /* Services Provided */
@@ -123,9 +125,9 @@ a:hover {
     .logo-img {
         width: 75%;
     }
-
-    .photo-gallery {
-        margin-left: 50px;
+    
+    .photo-gallery img {
+        max-width: 60%;
     }
 
     .about-image {
@@ -146,8 +148,8 @@ a:hover {
         width: 60%;
     }
 
-    .photo-gallery {
-        margin-left: 20px;
+    .photo-gallery img {
+        max-width: 60%;
     }
 
     .card {
